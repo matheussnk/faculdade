@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppCTT</string>
+
+    <string name="btAddIncluir">Incluir</string>
+    <string name="btAddContato">Adicionar Contato</string>
+    <string name="btSair">Sair</string>
+    <string name="btVoltar">Voltar</string>
+    <string name="btAtualizar">Atualizar</string>
+    <string name="btExluir">Excluir</string>
+    <string name="msgAlterar">Alterar Contato</string>
+    <string name="msgIncluir">Adicionar Contato</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintEmail">Email:</string>
+
+</resources>
